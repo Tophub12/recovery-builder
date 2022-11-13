@@ -14,9 +14,9 @@ on:
 
 env:
   MANIFEST: https://github.com/PitchBlackRecoveryProject/manifest_pb.git -b android-11.0
-  DEVICE: X655C
-  DT_LINK: https://github.com/kies83/recovery_device_infinix_x655c
-  DT_PATH: device/infinix/X655C
+  DEVICE: KE5
+  DT_LINK: https://github.com/Tophub12/device_tecno_ke5
+  DT_PATH: device/tecno/KE5
   TARGET: recoveryimage
   TZ: Asia/Karachi
 
