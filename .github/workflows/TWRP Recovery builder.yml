@@ -14,9 +14,9 @@ on:
 
 env:
   MANIFEST: https://github.com/minimal-manifest-twrp/platform_manifest_twrp_aosp
-  DEVICE: KE5
+  DEVICE: TECNO-KE5
   DT_LINK: https://github.com/Tophub12/device_tecno_ke5
-  DT_PATH: device/tecno/KE5
+  DT_PATH: device/tecno/TECNO-KE5
   TARGET: recoveryimage
   TZ: Asia/Karachi
 
